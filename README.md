@@ -106,9 +106,9 @@ You need Python installed on your machine. Download it from:
 ### **2️⃣ Run the game**  
 Clone the repository and run the script:  
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-ai.git
-cd tic-tac-toe-ai
-python tic_tac_toe.py
+git clone https://github.com/l-white/prompt-game.git
+cd prompt-game
+python3 choose-level-with-gui.py
 ```
 
 ---
