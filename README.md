@@ -96,6 +96,8 @@ What are the steps for adding a Restart button?
 
 This structured approach to **prompt engineering** allowed me to build the game **iteratively**, improving and refining it based on AI-generated responses.
 
+To show the iterations, I have kept all versions of the game. choose-evel-with-gui.py is the current final version of the game.
+
 ---
 
 ## **💻 Installation & Running the Game**  
@@ -113,7 +115,7 @@ python3 choose-level-with-gui.py
 
 ---
 
-## **🔮 Future Improvements**  
+## **🔮 Possible Future Improvements**  
 Here are some potential next steps for enhancement:  
 🔥 **Scoreboard** – Track wins/losses.  
 🎶 **Sound Effects** – Add clicks and win/loss sounds.  
