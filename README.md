@@ -121,6 +121,7 @@ Here are some potential next steps for enhancement:
 🎶 **Sound Effects** – Add clicks and win/loss sounds.  
 🌍 **Multiplayer Mode** – Play against another human.  
 ✨ **Animations** – Make the UI more dynamic.  
+🖥️ **Web App** - Creating a full-stack web application.
 
 ---
 
