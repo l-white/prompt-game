@@ -43,10 +43,9 @@ Rather than writing the code myself, I used **carefully crafted prompts** to get
  
 
 ChatGPT created a very simple interface with tkinter:  
-```md
+
 ![Tic-Tac-Toe Screenshot](https://raw.githubusercontent.com/l-white/prompt-game/main/images/game-with-tkinter.png)
 
-```
 
 ---
 
